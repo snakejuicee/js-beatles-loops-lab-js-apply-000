@@ -17,3 +17,12 @@ function johnLennonFacts(f) {
   }
   return ans;
 }
+
+function iLoveTheBeatles(n) {
+  var ans = [];
+  
+  do {
+  } while()
+  }
+  
+}
